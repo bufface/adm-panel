@@ -1,0 +1,44 @@
+.header-container {
+	background-color: red;
+	height: 60px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 999;
+	margin-left: 0px !important;
+}
+
+footer {
+	background-color: yellow;
+	height: 40px;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	z-index: 999;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.left-menu{
+	background-color: blue;
+	height: 1000px;
+}
+
+.content{
+	background-color: green;
+	height: 1000px;
+}
+
+.img-logo {
+	background-color: white;
+	height: 60px;
+}
+
+.show-menu-action {
+	background-color: grey;
+	height: 60px;
+	text-align: center;
+}
