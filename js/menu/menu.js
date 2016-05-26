@@ -20,6 +20,3 @@ var MenuHandler = function () {
     };
     return MenuHandler;
 }();
-$(document).ready(function ($) {
-    var menuHandler = new MenuHandler('.menu');
-});
