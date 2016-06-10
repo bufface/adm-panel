@@ -5,7 +5,6 @@
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
-
 .menu__btn {
   position: relative;
   display: block;
@@ -29,7 +28,6 @@
   -webkit-transform: translateX(0);
   transform: translateX(0);
 }
-
 .menu__burger,
 .menu__burger:before,
 .menu__burger:after {
@@ -40,7 +38,6 @@
   background-color: white;
   position: absolute;
 }
-
 .menu__burger {
   left: 8px;
   top: 15px;
@@ -58,7 +55,6 @@
 .menu__burger:after {
   top: 8px;
 }
-
 .menu__exit:before,
 .menu__exit:after {
   display: block;
@@ -68,7 +64,6 @@
   background-color: white;
   position: absolute;
 }
-
 .menu__exit {
   position: absolute;
   left: 6px;
